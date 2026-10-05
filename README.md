@@ -77,9 +77,9 @@ Application web **open source** pour explorer les observations d'oiseaux **en te
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=timeobonnin-prog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Statistiques GitHub" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=timeobonnin-prog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" alt="Statistiques GitHub" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timeobonnin-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Langages les plus utilisés" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timeobonnin-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800&v=2" alt="Langages les plus utilisés" height="180" />
 
 </div>
 
