@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/timeobonnin-prog/timeobonnin-prog/main/LOGO_FILENAME.webp" width="160" alt="Timéo Bonnin" />
+<img src="https://raw.githubusercontent.com/timeobonnin-prog/timeobonnin-prog/main/logo.webp" width="160" alt="Logo Timéo Bonnin" />
 
 # 👋 Salut, moi c'est Timéo Bonnin
 
@@ -77,21 +77,21 @@ Application web **open source** pour explorer les observations d'oiseaux **en te
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=timeobonnin-prog&show_icons=true&theme=cyberpunk&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiques GitHub" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=timeobonnin-prog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Statistiques GitHub" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timeobonnin-prog&layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" alt="Langages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timeobonnin-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Langages les plus utilisés" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=timeobonnin-prog&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Série de contributions" />
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=timeobonnin-prog&theme=react-dark&hide_border=true&area=true&custom_title=Mon%20activité%20GitHub" alt="Graphique d'activité" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=timeobonnin-prog&theme=cyberpunk&hide_border=true" alt="Série de contributions" />
 
 </div>
 
@@ -122,6 +122,6 @@ Application web **open source** pour explorer les observations d'oiseaux **en te
 
 ### 🌿 Merci de votre visite !
 
-![Profile views](https://komarev.com/ghpvc/?username=timeobonnin-prog&color=10b981&style=for-the-badge&label=VISITEURS)
+![Visiteurs](https://komarev.com/ghpvc/?username=timeobonnin-prog&color=10b981&style=for-the-badge&label=VISITEURS)
 
 </div>
