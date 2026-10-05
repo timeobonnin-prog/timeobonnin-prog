@@ -73,25 +73,11 @@ Application web **open source** pour explorer les observations d'oiseaux **en te
 
 ---
 
-## 📊 Mes statistiques GitHub
+## 🌆 Ma ville contributive
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=timeobonnin-prog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" alt="Statistiques GitHub" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timeobonnin-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800&v=2" alt="Langages les plus utilisés" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=timeobonnin-prog&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Série de contributions" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=timeobonnin-prog&theme=react-dark&hide_border=true&area=true&custom_title=Mon%20activité%20GitHub" alt="Graphique d'activité" width="100%" />
+![GitCity](https://gitcity.natrajx.in/api/svg?username=timeobonnin-prog&theme=matrix)
 
 </div>
 
